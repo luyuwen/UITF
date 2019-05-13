@@ -22,6 +22,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以将上述内容归纳为表2-1，方便读者查阅，其中位权的表示方法仅适用于整数部分。
 
+<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px">图2-1-1 键盘</p></div>
+
+
 ##2.2.2不同进位计数制间的转换
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不同进位制数之间可以相互转换，但转换方法有所不同，初学进位制转换可以参考以下二进制、八进制、十进制与十六进制之间的对应关系，如表2-2所示。
