@@ -25,7 +25,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以将上述内容归纳为表2-1，方便读者查阅，其中位权的表示方法仅适用于整数部分。
 
-<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px">图2-1-1 键盘</p></div>
+<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-1-1 键盘</p></div>
 
 |进位制|运算规则|基数|基本符号|位权|
 | :------: | :------: | :------: |:------: | :------: |
@@ -38,10 +38,28 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不同进位制数之间可以相互转换，但转换方法有所不同，初学进位制转换可以参考以下二进制、八进制、十进制与十六进制之间的对应关系，如表2-2所示。
 
-<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-1-1 键盘</p></div>
-===
+<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">表2-2 进制转换对应关系</p></div>
 
-1. 二进制数与十进制数的相互转换
+|二进制|八进制|十进制|十六进制|
+| :------: | :------: | :------: |:------: |
+|0000|0|0|0|
+|0001|1|1|1|
+|0010|2|2|2|
+|0011|3|3|3|
+|0100|4|4|4|
+|0101|5|5|5|
+|0110|6|6|6|
+|0111|7|7|7|
+|1000|10|8|8|
+|1001|11|9|9|
+|1010|12|10|A|
+|1011|13|11|B|
+|1100|14|12|C|
+|1101|15|13|D|
+|1110|16|14|E|
+|1111|17|15|F|
+
+###1.二进制数与十进制数的相互转换
 
 （1）二进制数转换为十进制数
 
