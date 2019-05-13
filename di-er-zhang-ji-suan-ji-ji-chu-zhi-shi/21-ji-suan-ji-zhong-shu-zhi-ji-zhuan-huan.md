@@ -1,8 +1,7 @@
 #2.1 计算机中数制及转换
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=u0870ds00vh" allowFullScreen="true"></iframe></div>
-<div align="center"><span style="font-size:20px">教学微视频</span></div>
-===
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
 
 ##2.1.1 不同的进制
 
@@ -39,7 +38,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不同进位制数之间可以相互转换，但转换方法有所不同，初学进位制转换可以参考以下二进制、八进制、十进制与十六进制之间的对应关系，如表2-2所示。
 
-<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px">图2-1-1 键盘</p></div>
+<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-1-1 键盘</p></div>
+===
 
 1. 二进制数与十进制数的相互转换
 
