@@ -27,7 +27,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以将上述内容归纳为表2-1，方便读者查阅，其中位权的表示方法仅适用于整数部分。
 
-<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-1-1 键盘</p></div>
+<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">表2-1-1 键盘</p></div>
 
 |进位制|运算规则|基数|基本符号|位权|
 | :------: | :------: | :------: |:------: | :------: |
@@ -153,6 +153,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;例如将十六进制数12C.A转换为十进制数：
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（12C.A）16=1×16<sup>2</sup>+2×16<sup>1</sup>+12×16<sup>0</sup>+10×16<sup>-1</sup>=（300.625）<sub>10</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（12C.A）<sub>16</sub>=1×16<sup>2</sup>+2×16<sup>1</sup>+12×16<sup>0</sup>+10×16<sup>-1</sup>=（300.625）<sub>10</sub>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结果为（12C.A）<sub>2</sub>=（300.625）<sub>10</sub>
