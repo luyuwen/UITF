@@ -111,6 +111,50 @@
 
 ####（3）保护文档
 
-工作中我们常常会有一些重要的文档需要保护，对于一些具有保密性内容的文档，可添加密码以防止他人查看与修改。单击【另存为】→【这台电脑】→【工具】下三角按钮，在下拉列表中选择【常规选项】，在弹出的对话框中完成密码设置即可，如图4-6所示。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工作中我们常常会有一些重要的文档需要保护，对于一些具有保密性内容的文档，可添加密码以防止他人查看与修改。单击【另存为】→【这台电脑】→【工具】下三角按钮，在下拉列表中选择【常规选项】，在弹出的对话框中完成密码设置即可，如图4-6所示。
 
 <div align="center"><img src="/images/4-6.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图4-6 “常规选项”对话框</p></div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用户也可以通过执行【文件】→【信息】命令，单击【保护文档】下拉按钮，下拉列表中共有五种保护文档的选项，用户可以根据实际需求进行设置。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①标记为最终状态：指让读者知晓文档是最终版本，并将其设置为只读。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②用密码进行加密：用密码保护此文档。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③限制编辑：控制其他人可以做的更改类型。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④限制访问：指授予用户访问权限，同时限制其编辑、复制和打印能力。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤添加数字签名：指通过添加不可见的数字签名来确保文档的完整性。
+
+##4.1.3文本的录入
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文档创建完成之后，便可以对文档进行文本录入、编辑、排版等操作。
+
+###1.定位光标插入点
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在文档编辑区中，有一条闪烁的竖线，我们称之为光标。用户可将光标定位在指定位置，并从该位置开始录入文本。
+
+###2.输入文本内容
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在文档编辑区中,在光标处输入文本内容。当输入完一行，光标自动切换至下一行。当输入完一段，按Enter键会确定下一个段落，Enter键表示插入一个标记。当输入内容满一页时，Word将自动分页。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果要另起一行，而不起一个段落，可以在【布局】选项卡内的【页面设置】组中单击 【分隔符】按钮，在下拉列表中单击【自动换行符】按钮或直接按键盘组合键“Shift+Enter”。
+
+###3.输入日期和时间
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择【插入】选项卡，在【文本】组中单击【日期与时间】按钮。在弹出的对话框中，选择【可用格式】中的一种时间和日期样式，【语言】可根据实际情况进行选择，单击【确定】按钮，即可完成，如图4-7所示。
+
+<div align="center"><img src="/images/4-7.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图4-7 “日期和时间”对话框</p></div>
+
+###4.输入特殊符号
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;编辑Word文档时，我们难免会需要输入某些键盘上没有的特殊符号，这时可以单击【插入】→【符号】，选择下拉列表中的【其他符号】选项，会弹出【符号】对话框，从中选择需要的符号，单击【插入】按钮即可，图4-8为“符号”对话框。
+
+<div align="center"><img src="/images/4-8.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图4-8 “符号”对话框</p></div>
+
+###5.输入公式
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在编辑文档的过程中如需输入数学公式，用户可以单击【插入】，在【符号】组中单击【公式】下拉按钮，可以选择内置公式或者【插入新公式】，如图4-9所示。
+
+<div align="center"><img src="/images/4-9.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图4-9 插入公式</p></div>
