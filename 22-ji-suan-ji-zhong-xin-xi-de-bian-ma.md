@@ -1,4 +1,3 @@
-
 #2.2 计算机中信息的编码
 
 <div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=c087018hhsg" allowFullScreen="true"></iframe></div>
