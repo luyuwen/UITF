@@ -1,5 +1,8 @@
 #4.2 文档的编辑与排版
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=s08701hkfm3" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于一份文档我们不仅仅要进行输入操作，还要对其进行一些编辑与排版，使其更易于读者浏览阅读。此处以Word 2016为例，介绍文档的编辑与排版。
 
 ##4.2.1 文档的编辑

@@ -1,5 +1,8 @@
 #4.1文字处理软件基础知识
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=v087095ifet" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 ##4.1.1 文档的打开与关闭
 
 ###1.启动Word 2016
