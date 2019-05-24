@@ -11,6 +11,7 @@
 * 第三章 操作系统
   * [3.1 操作系统概述](31-cao-zuo-xi-tong-gai-shu.md)
   * [3.2 操作系统的功能组成](32-cao-zuo-xi-tong-de-gong-neng-zu-cheng.md)
+  * [3.3 操作系统的使用](33-cao-zuo-xi-tong-de-shi-yong.md)
 * [第四章 文字处理软件](di-si-zhang-wen-zi-chu-li-ruan-jian.md)
   * [4.1 文字处理软件基础知识](41-wen-zi-chu-li-ruan-jian-ji-chu-zhi-shi.md)
   * [4.2 文档的编辑与排版](42-wen-dang-de-bian-ji-yu-pai-ban.md)
