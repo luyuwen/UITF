@@ -1,5 +1,8 @@
 #1.2 信息技术及信息化社会
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=c0871i8c8qc" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 ##1.2.1 “信息”词考
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“信息”一词由来已久，并非是现代词汇。一些古诗词中就出现过“信息”这个词语。唐朝诗人杜牧的《寄远》中有“塞外音书无信息，道傍车马起尘埃”；南宋陈亮的《梅花》中有“欲传春信息，不怕雪埋葬”；北宋毛滂在他的诗作《浣溪沙》中有“雁过故人无信息，酒醒残梦寄凄凉”；还有宋代朱淑真的《闻鹊》中有“青鸟已承云信息，预先来报两三声”，北大青鸟中“青鸟”就来源于此诗。这些诗句中都出现了“信息”一词，可以看出古人很早就使用“信息”这个词语。

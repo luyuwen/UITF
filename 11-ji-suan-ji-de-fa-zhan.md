@@ -1,5 +1,8 @@
 #1.1 计算机的发展
 
+<div align="center"><iframe frameborder="0" width="640" height="498"  src="https://v.qq.com/txp/iframe/player.html?vid=j0870jpwnd5" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 ##1.1.1 计算机的发展历史
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在人类历史文明的长河中，人类不断地发明创造各类工具进行计算。早期，人类通过在长绳上打结来记事或计数,周朝出现了算筹，这是最原始的人造计算工具，主要使用长短、粗细相同的棍子，通过纵向或横向的排列，达到计数、运算的目的，如图1-1所示。算盘自宋朝开始流行，由于运算方便快速，成为我国古代劳动人民普遍使用的计算工具，即便是现在的电子计算器，也不能完全取代算盘，如图1-2所示。联合国教科文组织于2013年12月宣布珠算成为人类非物质文化遗产。
