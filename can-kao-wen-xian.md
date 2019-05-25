@@ -1,3 +1,5 @@
+<div align="center"><p style="text-align:center; font-size:20px; margin-top:2px; font-weight:bold">参考文献</p></div>
+
 [1]教育部高等学校大学计算机课程教学指导委员会.大学计算机基础课程教学基本要求[M].北京:高等教育出版社,2016. 
 
 [2]中华人民共和国教育部.教育部关于印发《教育信息化2.0行动计划》的通知[EB/OL]. http://www.moe.gov.cn/srcsite/A16/s3342/201804/t20180425_334188.html
