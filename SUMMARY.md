@@ -19,7 +19,25 @@
   * [4.4 长文档排版](44-chang-wen-dang-pai-ban.md)
 * 第五章 电子表格软件
   * [5.1 电子表格基础知识](51-dian-zi-biao-ge-ji-chu-zhi-shi.md)
+  * [5.2 数据分析和处理](52-shu-ju-fen-xi-he-chu-li.md)
+  * [5.3 数据图表化](53-shu-ju-tu-biao-hua.md)
 * 第六章 演示文稿软件
+  * [6.1 演示文稿基础知识](61-yan-shi-wen-gao-ji-chu-zhi-shi.md)
+  * [6.2 幻灯片编辑](62-huan-deng-pian-bian-ji.md)
+  * [6.3 在幻灯片中添加对象](63-zai-huan-deng-pian-zhong-tian-jia-dui-xiang.md)
+  * [6.4 幻灯片放映](64-huan-deng-pian-fang-ying.md)
+  * [6.5 PowerPoint的高级功能](65-powerpointde-gao-ji-gong-neng.md)
 * 第七章 计算机网络应用技术
+  * [7.1 计算机网络技术基础](71-ji-suan-ji-wang-luo-ji-zhu-ji-chu.md)
+  * [7.2 Internet及开放教育资源](72-internetji-kai-fang-jiao-yu-zi-yuan.md)
 * 第八章 多媒体应用技术
+  * [8.1 数字图像](81-shu-zi-tu-xiang.md)
+  * [8.2 数字音频](82-shu-zi-yin-pin.md)
+  * [8.3 数字视频](83-shu-zi-shi-pin.md)
+  * [8.4 计算机动画](84-ji-suan-ji-dong-hua.md)
+* 第九章 信息安全技术
+  * [9.1 信息安全基础知识](91-xin-xi-an-quan-ji-chu-zhi-shi.md)
+  * [9.2 常用信息安全技术](92-chang-yong-xin-xi-an-quan-ji-zhu.md)
+  * [9.3 信息化与法律法规](93-xin-xi-hua-yu-fa-lv-fa-gui.md)
+* [参考文献](can-kao-wen-xian.md)
 
