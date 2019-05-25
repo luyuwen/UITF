@@ -16,9 +16,10 @@
   * [4.1 文字处理软件基础知识](41-wen-zi-chu-li-ruan-jian-ji-chu-zhi-shi.md)
   * [4.2 文档的编辑与排版](42-wen-dang-de-bian-ji-yu-pai-ban.md)
   * [4.3 文档中插入各种对象](43-wen-dang-zhong-cha-ru-ge-zhong-dui-xiang.md)
+  * [4.4 长文档排版](44-chang-wen-dang-pai-ban.md)
 * 第五章 电子表格软件
+  * [5.1 电子表格基础知识](51-dian-zi-biao-ge-ji-chu-zhi-shi.md)
 * 第六章 演示文稿软件
 * 第七章 计算机网络应用技术
 * 第八章 多媒体应用技术
-* 第二章
 
