@@ -29,10 +29,9 @@
 ###2.量化
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;连续的音频信号经过采样后成为离散信号，离散信号经过量化后成为数字信号。量化就是将采样后大量的信号幅度值用确定的有限位二进制数表示出来的过程。信号在量化过程中可能会出现误差，我们称其为量化噪声，量化等级越多，量化噪声就越小，如图8-19所示，16位量化明显比8位量化的精度要高，但同时16位量化生成的数字音频所占用的存储空间也相对较大。
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>
- 
-图8-19 量化示意图
 
+<div align="center"><img src="/images/8-19.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-19 量化示意图</p></div>
+ 
 ###3.编码
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;编码就是将采样和量化后的数字音频数据按照一定的格式记录下来的过程。比特率是一个间接衡量音频文件质量的标准。在相同的编码格式下，比特率越大音质就越好，比特率的计算方式为:比特率=采样频率×量化位数×声道数。常见的编码方式有脉冲编码调制（Pulse Code Modulation，简称PCM）、MP3编码、OGG编码等。
@@ -111,61 +110,53 @@
 ###2.Audition操作界面
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audition有单轨迹编辑环境、多轨迹编辑环境、CD模式编辑环境等三种工作环境，单轨迹编辑环境比较适合处理单个的音频文件；多轨迹编辑环境可以对多个音频文件进行编辑；CD模式编辑环境可以整合音频文件并转化为CD音频。
-此处以Audition2018为例，介绍它的操作界面，图8-20是Audition2018的工作界面，最上面是菜单栏，包括文件、编辑、多轨混音、素材、效果等；最左边为素材选择区，我们可以在这里找到自己需要的音频素材；素材选择区右边为工作区和显示区，工作区用来对音频进行一系列操作，例如降噪、删除等；显示区可以显示音频的声音大小以及音频的起止、持续时间等。Audition的窗口布局较为自由，可以任意调整大小、位置等。
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>
- 
-图8-20 Audition的主界面
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此处以Audition2018为例，介绍它的操作界面，图8-20是Audition2018的工作界面，最上面是菜单栏，包括文件、编辑、多轨混音、素材、效果等；最左边为素材选择区，我们可以在这里找到自己需要的音频素材；素材选择区右边为工作区和显示区，工作区用来对音频进行一系列操作，例如降噪、删除等；显示区可以显示音频的声音大小以及音频的起止、持续时间等。Audition的窗口布局较为自由，可以任意调整大小、位置等。
+
+<div align="center"><img src="/images/8-20.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-20 Audition的主界面</p></div>
+ 
 ###3.Audition的常用操作
 
-Audition2018的功能很多，此处介绍几种常用操作。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Audition2018的功能很多，此处介绍几种常用操作。
 
 ####（1）声音的录制
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在计算机上插入麦克风并打开Audition后，单击菜单栏中的【文件】→【新建】→【新建音频文件】，会出现图8-21所示的对话框，在这里我们需要命名该文件，选择合适的采样率、声道、位深度并单击【确定】；然后单击编辑器上的 【录音】按钮便可通过麦克风进行录音，录音完毕，可以单击 【停止】按钮结東录音，编辑器如图8-22所示。
 
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>
+<div align="center"><img src="/images/8-21.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-21 新建音频文件</p></div>
  
-图8-21 新建音频文件
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>
+<div align="center"><img src="/images/8-22.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-22 编辑器</p></div>
  
-图8-22 编辑器
-
 ####（2）录制程序中的声音
 
-我们首先打开所要运行的程序(如课件、游戏软件等)，并找到想要录制的内容；单击Audition菜单栏中的【编辑】→【首选项】→【音频硬件】，在“首选项”对话框中的【默认输入】下拉菜单中选择【立体声混音】并单击【确定】，如图8-23所示；最后单击编辑器中的【录音】按钮便可进行录制。
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>
- 
-图8-23 设置音频硬件
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们首先打开所要运行的程序(如课件、游戏软件等)，并找到想要录制的内容；单击Audition菜单栏中的【编辑】→【首选项】→【音频硬件】，在“首选项”对话框中的【默认输入】下拉菜单中选择【立体声混音】并单击【确定】，如图8-23所示；最后单击编辑器中的【录音】按钮便可进行录制。
 
+<div align="center"><img src="/images/8-23.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-23 设置音频硬件</p></div>
+ 
 ####（3）音频粗剪
 
-在声音素材的编辑过程中，有时需要删除一些空白或者错误的部分，有时需要把一部分声音文件粘贴到另一个位置。删除声音时，我们选中需要删除的部分，按下“Delete”键即可，复制粘贴文件时，选中需要复制的部分按下“Ctrl+C”，并在合适的位置按下“Ctrl+V”进行粘贴。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在声音素材的编辑过程中，有时需要删除一些空白或者错误的部分，有时需要把一部分声音文件粘贴到另一个位置。删除声音时，我们选中需要删除的部分，按下“Delete”键即可，复制粘贴文件时，选中需要复制的部分按下“Ctrl+C”，并在合适的位置按下“Ctrl+V”进行粘贴。
 
 ####（4）声音效果的处理
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①降噪，在录制声音素材时，不可避免的会出现一些噪声，我们可以通过降噪来处理声音素材。首先将该声音文件的波形放大，直到能够清楚地看到该声音文件的低频噪声波形；选中该波段，单击【效果】→【降噪/恢复】→【降噪（处理）】，打开“效果-降噪”对话框，如图8-24所示，单击【捕捉噪声样本】，软件便会对噪声样本进行分析，之后单击【选择完整文件】，此时整个声音素材文件都会被选中，最后单击对话框中的 按钮，就可以试听降噪的效果了。如果觉得效果比较理想，单击【应用】按钮，即可完成降噪处理，如果觉得声音失真，可以调节【降噪】和【降噪幅度】来完善效果，如图8-25所示。
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>
 
-图8-24 降噪面板
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>
+<div align="center"><img src="/images/8-24.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-24 降噪面板</p></div>
+
+<div align="center"><img src="/images/8-25.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-25 降噪和降噪幅度的设置</p></div>
  
-图8-25 降噪和降噪幅度的设置
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②淡入淡出，通常我们会在声音开始和结束部分进行淡入淡出处理，使得声音的产生和消失不那么突兀。编辑音频文件时，在工作区的左上角和右上角分别有一个淡入标识和淡出标识，如图8-26所示。向右拖动左上角的淡入标识，可对声音素材进行淡入处理；向左拖动右上角的淡出标识，即可对声音素材进行淡出处理。
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>
- 
-图8-26 淡入淡出标识
+
+<div align="center"><img src="/images/8-26.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-26 淡入淡出标识</p></div>
 
 ####（5）音频的修复
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在录制声音素材的过程中，可能会混入一些杂音，例如电话铃声，上课铃声，此时我们就需要对声音进行修复。首先单击【显示频谱频率显示器】 ，调出该声音素材的频谱图；之后单击【框选工具】 ，对杂音部分进行框选，如图8-27所示，最后按下“Delete”键便可进行删除。对于框选不干净的部分，我们可以使用【套索选择工具】 ，将需要删除的部分选出，并按“Delete”键进行清除。
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>
- 
-图8-27 音频的框选
+
+<div align="center"><img src="/images/8-27.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-27 音频的框选</p></div>
 
 ####（6）声音的合成
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;背景音乐可以烘托气氛、酝酿情绪，在影视作品、游戏、动漫等领域应用广泛，利用Audition可以为音频添加背景音乐。首先单击【文件】→【新建】→【多轨会话】，为新建的多轨会话文件命名，并单击【确定】按钮，将需要添加背景音乐的音频素材拖到轨道1上，并根据素材的长度调整另一轨道上背景音乐的长度；通过上下拖动音量线条来调节音量，如图8-28所示，通过【淡入】、【淡出】标识对声音进行淡入、淡出处理，直到达到理想的效果；最后单击【文件】→【导出】→【多轨混音】→【整个文件】，打开“导出多轨混音”面板，选择需要的格式、位置，单击【确定】就可以得到所需的音频。
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>
- 
-图8-28 通过音量线条调节音量
+
+<div align="center"><img src="/images/8-28.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-28 通过音量线条调节音量</p></div>
