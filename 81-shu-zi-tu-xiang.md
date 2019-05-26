@@ -7,8 +7,9 @@
 ###1.矢量图和位图
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;矢量图也叫向量图，它的元素，例如点、线、圆等，是通过数学公式获得的，如图8-1所示。矢量图的优点是文件小，图像轮廓易修改并且不管对图像进行怎样的缩放操作，不管按照何种分辨率打印，都不会影响图像的清晰度和细节展示，如图8-2所示；缺点是难以绘制色彩层次丰富的图片，并且绘制出的图像不是特别逼真。
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div> 
-图8-1 矢量图
+
+<div align="center"><img src="/images/8-1.jpg"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-1 矢量图</p></div> 
+
 <div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div>  
 图8-2 矢量图原图像与放大图像对比
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位图又称为像素图、点阵图，它的最小信息单元是像素，每个像素都具有特定的位置和颜色值。将位图图像放至最大，可以发现图片上出现了许多小方块，这些小方块就是像素，如图8-3所示。位图的优点是易于表现色彩层次丰富的图像，产生逼真的效果；缺点是放大到一定程度后图片会变得模糊，存储位图就是存储所有像素点的颜色数据等信息，因此位图存储占用的空间相对较大，一般情况下，为利于存储和传输，我们会对位图进行适当的压缩。
