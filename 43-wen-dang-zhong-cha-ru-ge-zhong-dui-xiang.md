@@ -18,8 +18,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;绘图是指一个或一组图形对象，包括文本框、艺术字、形状、项目符号、图表等。这些对象是Word文档的组成部分。
 
-###1．插入文本框
+###1.插入文本框
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单击【插入】选项，在【文本】选项组中选择【文本框】命令按钮，可根据需要选择横版文本框或者竖版文本框，如图4-27所示。之后在文本框中合适的位置输入文字，然后根据需要对文字的字体进行设置，如图4-28所示。
 
+<div align="center"><img src="/images/4-27.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图4-27 插入文本框</p></div>
 
+<div align="center"><img src="/images/4-28.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图4-28 设置字体</p></div>
+
+###2.插入艺术字
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单击【插入】选项卡，在【文本】选项组中选择【艺术字】命令按钮，如图4-29所示。
+
+
+<div align="center"><img src="/images/4-29.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图4-29 插入艺术字</p></div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;选择需要插入的艺术字类型，如图4-30所示。
+
+<div align="center"><img src="/images/4-29.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图4-30 艺术字类型</p></div>
