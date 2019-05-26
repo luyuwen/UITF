@@ -114,7 +114,6 @@
 
  <div align="center"><img src="/images/8-8.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-8 色调调整前后的对比图</p></div>
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③校正偏色，在拍摄过程中，由于光线或角度问题，可能会出现偏色，图8-9（a）就是一张出现偏色问题的图片。处理偏色时，可以在菜单栏中打开【图像】→【调整】→【色相/饱和度】，进行适当的调整即可，图8-9（b）为偏色校正前后的对比图。 
 
 <div align="center"><img src="/images/8-9.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-9 偏色校正前后的对比图</p></div>
@@ -131,10 +130,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①利用抠图合成图像，这种方法就是将我们需要的物体“抠下”，然后放到另一个背景当中，如图8-11所示。抠图时我们可以选择【快速选择工具】和【魔棒工具】，这两个工具适合选择大面积且颜色单一的区域，图8-11（a）的背景颜色就较为单一，我们可以先选中背景，然后按下“Ctrl+Shift+I”就可以反选出图中的玉石，最后移到另一个背景当中即可，如图8-11（b）所示。当背景颜色较为复杂时，我们可以选用【钢笔工具】沿着主体的边缘进行勾勒，勾勒完成后，在活动面板中找到我们刚刚勾勒的工作路径，如图8-12所示，按下“Ctrl”键同时点击路径缩略图，就将我们勾勒出的路径区域转换为了选区，最后将选区移到另一个背景当中即可。
 
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-2 汉字在计算机中的编码</p></div> 
- （a）                                                   （b）
- 
-图8-11 图像合成前后的对比图
+<div align="center"><img src="/images/8-11.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-11 图像合成前后的对比图</p></div> 
 
 <div align="center"><img src="/images/8-12.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-12 工作路径</p></div> 
 
@@ -144,7 +140,6 @@
 <div align="center"><img src="/images/8-13(a).jpg"><p>（a）</p><img src="/images/8-13(b).jpg"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">（b）</p><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-13 素材图</p></div>
             
 <div align="center"><img src="/images/8-14.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-14 图层蒙版</p></div> 
-
 
 <div align="center"><img src="/images/8-15.jpg"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-15 图片合成</p></div> 
 
