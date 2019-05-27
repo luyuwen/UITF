@@ -1,5 +1,9 @@
 #9.3 信息化与法律法规
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=h0875fx7arg" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
+
 ##9.3.1 信息化带来的社会问题
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来，网络技术和新一代移动通信技术不断发展，信息化改变人们生活方式的同时也带来的诸多问题。例如非法入侵他人计算机系统，破坏、窃取或篡改他人重要信息；为谋取利益利用网络实施非法贪污、诈骗等犯罪行为；传播暴力、色情等有害信息；侵犯他人知识产权；利用网络散布谣言，对他人进行人身攻击等。

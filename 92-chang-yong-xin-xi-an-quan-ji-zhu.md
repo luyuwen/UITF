@@ -1,5 +1,8 @@
 #9.2 常用信息安全技术
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=t0875u2dj8t" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前信息安全问题备受社会关注，无论是企业、组织还是个人，都可能受到病毒等的攻击，了解常用的信息安全技术可以在一定程度上保护我们的信息安全，此处介绍几种常见的信息安全技术。
 
 ##9.2.1 数据加密技术

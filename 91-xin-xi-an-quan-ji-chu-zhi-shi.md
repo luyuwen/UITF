@@ -1,5 +1,8 @@
 #9.1 信息安全基础知识
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=r0875c98q1y" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自20世纪80年代以来，计算机技术和互联网的发展改变了人们的生活和生产方式，在为我们的生活带来便利的同时，信息安全的问题也在计算机信息技术的发展过程中逐渐显现。
 
 ##9.1.1 信息安全的基本概念
