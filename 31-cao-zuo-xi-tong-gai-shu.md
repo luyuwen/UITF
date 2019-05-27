@@ -1,5 +1,8 @@
 #3.1 操作系统概述
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=a0874d1b28n" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;操作系统是计算机系统中最重要的软件系统，由于计算机拥有繁多的硬件资源和软件资源且要同时运行不同的程序，若由用户来管理这些资源，可能会阻碍计算机的普及，因此计算机中需要有一个可以帮助用户管理各种资源的特权软件，在计算机系统中扮演管家的角色，这个管家就是操作系统，主要负责管理计算机中的硬件和软件资源。
 
 ##3.1.1 操作系统的发展
@@ -15,8 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20世纪50年代第二代晶体管计算机问世，为了提高计算机系统的利用率，使其连接运行以减少机器的空闲时间，出现了单道批处理系统。单道批处理系统的工作方式是计算机操作员把一批作业输入到磁带中，系统中的监督程序会将磁带上的第一个作业装入内存并运行，当该作业处理完成时，监督程序把磁带上的第二个作业调入内存并运行，重复上述步骤直至完成磁带上的全部作业。由于内存每次只加载运行一个作业，所以这种批处理系统被称作单道批处理系统。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于单道批处理系统的内存中每次仅有一个作业，这致使系统中的资源不能被充分利用，为解决资源的利用率问题，出现了多道批处理系统。如图3-1所示，多道批处理系统的内存可同时容纳多个作业，如果正在执行的作业由于某些原因被暂停，那么内存中的另一个作业会被执行。多道批处理系统提高了计算机的资源利用率和系统吞吐量，但也存在一定的局限，如无交互能力，用户一旦把作业交给系统，那么作业在被执行完成之前，用户不能对作业进行任何交互。
- 
-图3-1 多道批处理作业过程
+
+<div align="center"><img src="/images/3-1.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-1 多道批处理作业过程</p></div> 
 
 ###2.20世纪60年代
 
@@ -41,14 +44,14 @@
 ###3.Linux
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux属于类UNIX操作系统，是由林纳斯·托瓦兹及其团队开发完成的，图3-2是林纳斯·托瓦兹的照片。Linux拥有图形界面和字符界面，支持多用户、多任务，保证各用户之间互不影响且多个程序可同时独立运行。Linux可以在多种硬件平台上运行，如手机、平板电脑、台式计算机、大型机和超级计算机。
- 
-图3-2 Linux创始人林纳斯·托瓦兹
+
+<div align="center"><img src="/images/3-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-2 Linux创始人林纳斯·托瓦兹</p></div> 
 
 ###4.Windows
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows系统问世于1985年，是由微软公司研发的基于图形用户界面操作系统，相比于DOS操作系统，它的操作方式更具人性化，深受大众喜爱，这使其很快成为个人计算机上使用比较广泛的操作系统。目前个人计算机上所使用的操作系统主要包括Windows7、Windows8、Windows8.1、Windows10，服务器上主要安装的是Windows Server 2003、Windows Server 2008、Windows Server 2012。微软公司也开发了用于嵌入式设备的Windows CE和用于智能手机的Windows Phone，图3-3是Windows Phone的界面。
- 
-图3-3 Windows Phone界面
+
+<div align="center"><img src="/images/3-3.jpg"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-3 Windows Phone界面</p></div> 
 
 ###5.Mac OS 与 iOS
 
