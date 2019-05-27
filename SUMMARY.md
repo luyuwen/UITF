@@ -2,9 +2,11 @@
 
 * [课程介绍](README.md)
 * 第一章 计算机与信息化
+  * [本章概要](ben-zhang-dao-du.md)
   * [1.1 计算机的发展](11-ji-suan-ji-de-fa-zhan.md)
   * [1.2 信息技术及信息化社会](12-xin-xi-ji-zhu-ji-xin-xi-hua-she-hui.md)
 * 第二章 计算机基础知识
+  * [本章概要](ben-zhang-gai-yao.md)
   * [2.1 计算机中数制及转换](21-ji-suan-ji-zhong-shu-zhi-ji-zhuan-huan.md)
   * [2.2 计算机中信息的编码](22-ji-suan-ji-zhong-xin-xi-de-bian-ma.md)
   * [2.3 计算机系统](23-ji-suan-ji-xi-tong.md)
