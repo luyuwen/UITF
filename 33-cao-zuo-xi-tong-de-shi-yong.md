@@ -22,7 +22,6 @@
 
 <div align="center"><img src="/images/3-10.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-10 创建用户完成</p></div>
 
-
 ##3.3.2 文件和文件夹的相关操作
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows操作系统的“文件资源管理器”以树状结构显示文件，用户可以查看磁盘，对文件进行创建、命名、删除、剪切、复制、粘贴和搜索等操作。
@@ -45,10 +44,10 @@
 ###3.剪切、复制和粘贴文件或文件夹
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;剪切、复制和粘贴操作可以改变文件或文件夹的存放位置。剪切文件/文件夹时，需要选中该文件/文件夹，单击鼠标右键，选择【剪切】，或选中该文件/文件夹后，按下快捷键“Ctrl+X”也可完成剪切；复制文件与剪切的步骤相似，选中该文件/文件夹，单击鼠标右键，选择【复制】，或选中该文件/文件夹后，按下快捷键“Ctrl+C”，如图3-14所示。剪切和复制的区别在于，剪切后，该文件/文件夹在原地址中消失，复制后，该文件/文件夹在原地址中依然存在。通常剪切或复制后会用到粘贴，在目标位置，单机鼠标右键，选择【粘贴】，如图3-15所示，或按下快捷键“Ctrl+V”即可完成文件/文件夹位置的移动，这时剪切或复制的文件/文件夹在目标位置中就存在了。
+
 <div align="center"><img src="/images/3-14.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-14 文件的剪切与复制</p></div> 
 
 <div align="center"><img src="/images/3-15.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-15 文件的粘贴</p></div> 
-
 
 ###4.多选、全选文件和文件夹
 
@@ -76,18 +75,15 @@
 
 <div align="center"><img src="/images/3-16.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-16 文件的重命名</p></div> 
 
-
 ###6.搜索文件
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows的搜索功能可以帮助我们快速找到所需文件，如图3-17所示。在文件名类似、文件格式相同和根本不知道文件名等情况下，可以使用通配符进行搜索，即星号（*）与问号（？）。星号（*）可以代替零个或多个字符，问号（？）只能代替一个字符。以“*.docx”为例，可以搜索到指定位置的所有docx文件。
 
 <div align="center"><img src="/images/3-17.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-17 文件的搜索</p></div> 
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows系统中常见的文件扩展名如表3-1所示。
 
 <div align="center"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">表3-1 Windows系统常见文件扩展名</p></div>
-
 
 |文件类型|扩展名|
 | :------: | :------: |

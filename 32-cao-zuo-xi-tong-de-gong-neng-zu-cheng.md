@@ -1,14 +1,17 @@
 #3.2 操作系统的功能组成
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=y0875z3kkqc" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;操作系统是一个非常复杂的系统，负责管理计算机的硬件资源和软件资源，用户通过操作系统可以方便的使用这些资源。操作系统主要包括用户接口、处理器管理、内存管理、设备管理和文件管理五大功能。
 
 ##3.2.1 用户接口
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用户接口（User Interface，简称UI）是系统和用户之间进行交互的手段，操作系统管理着计算机系统的各种硬件资源和软件资源，用户想要使用计算机的各种资源就必须有一个供用户使用其资源的接口，即用户接口。用户接口接受到用户请求后，将其解释给操作系统，操作系统按照请求执行相关操作，这样用户就使用了计算机资源，获得了操作系统提供的相关服务，这方便了用户与操作系统之间的双向交互。用户接口一般包括命令接口、程序接口、图形接口三种，最初的操作系统使用命令接口，现在的操作系统大多使用图形接口。命令接口是由用户输入命令，后台执行完成命令后将结果呈现在前台界面上的方式；图形接口采用易于识别的各种图标来表示系统的各项功能、应用程序和文件等，用户无需输入命令，仅利用鼠标就可以完成部分操作。对比命令接口与图形接口，命令接口资源利用率高、作业运行效率高但难以预料错误，图形接口使用起来方便、直观、生动但实现的代码规模大，对内外存容量、CPU速度和显示器要求较高。图3-4和图3-5分别为Windows的图形接口和Windows的命令接口。
- 
-图3-4 Windows图形接口形式
- 
-图3-5 Windows命令接口形式
+
+<div align="center"><img src="/images/3-4.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-4 Windows图形接口形式</p></div> 
+
+<div align="center"><img src="/images/3-5.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-5 Windows命令接口形式</p></div> 
 
 ##3.2.2 处理器管理
 
@@ -19,14 +22,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;程序是对代码和数据的描述，而进程从广义上来看是一个程序关于某个数据集合的一次运行，从狭义上来看是正在运行的程序。操作系统引入进程的目的就是为了有效管理计算机中运行着的程序。程序是静态的，可以把它看作是一种长期存在的软件，同一程序可以对应多个进程，即一个程序同时在多个数据集合上运行；进程是动态的，具有一定的生命期，能更真实的描述并发。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;系统执行一个程序就要先创建对应的进程，由于进程执行时存在一定的间断，因此进程存在三种状态，即就绪状态、运行状态和阻塞状态。就绪状态是指除了处理器资源，进程所需的其他资源都已准备就绪，只要按照系统的调度策略分配了处理器，进程就可以马上执行；运行状态是指进程占用了处理器，正在执行过程中；阻塞状态是指进程等待某个条件的发生，如I/O操作、进程同步等，如果该条件没有满足，那么即使分配给进程处理器资源也无法被执行，当条件满足时，该进程就可以回到就绪队列等待被执行。进程的三个基本状态以及状态之间的相互转化如图3-6所示。
- 
-图3-6 进程状态及相互转化
+
+<div align="center"><img src="/images/3-6.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-6 进程状态及相互转化</p></div> 
 
 ###2.线程
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;线程是进程中的实际运作单位，在线程的生命周期内，存在新线程状态、可运行状态、阻塞状态和死亡状态等四种状态。一个进程可以并发多个线程，每条线程都是进程中的一个单一顺序控制流，且与其他线程执行的任务不同。图3-7是某时刻“Windows任务管理器”窗口中显示的进程和线程的相关信息，从图中可以看到，此时的“任务管理器”进程含有24个线程，“金山PDF”进程含有18个线程。
- 
-图3-7 “Windows任务管理器”窗口中进程和线程信息
+
+<div align="center"><img src="/images/3-7.jpg"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-7 “Windows任务管理器”窗口中进程和线程信息</p></div> 
 
 ###3.调度
 
@@ -39,8 +42,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;内存管理对于多任务系统是非常重要的，因为在同一时刻多任务系统中可能运行多个应用程序，它们共享内存，如果存在一些原因使得某个应用程序需要更多的内存时，系统可能会改变其它应用程序所分配的内存。计算机的内存空间有限，但用户的需求需要系统同时运行更多更大的程序，虚拟内存管理的出现缓和了用户需求与系统性能之间的矛盾。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;虚拟存储技术就是将内存空间和外存空间结合成一个远大于实际内存空间的虚拟存储空间。虚拟存储空间的工作原理是将内存划分为大小相同的若干块，称为页帧；同样也将进程划分为大小相同的块，称为页。进程运行时需要用到的页就会被调入内存，暂时不用的就保存在外存中，需要时可调入内存，同样内存中暂时用不到的页也会被调出内存，存放到外存当中。这样就为用户提供了一个远大于实际内存空间的虚拟内存。图3-8是虚拟内存管理的示意图。
- 
-图3-8 虚拟内存管理示意图
+
+<div align="center"><img src="/images/3-8.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-8 虚拟内存管理示意图</p></div> 
 
 ##3.2.4 设备管理
 
