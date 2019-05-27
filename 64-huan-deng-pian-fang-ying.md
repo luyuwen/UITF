@@ -1,5 +1,8 @@
 #6.4 幻灯片放映
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=u0875qhy9ie" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;幻灯片放映前，为使幻灯片更加多彩酷炫，达到最佳的放映效果，用户可以根据需要为幻灯片中的元素添加动画，设置幻灯片的放映方式、放映时间等。
 
 ##6.4.1 设置动画效果

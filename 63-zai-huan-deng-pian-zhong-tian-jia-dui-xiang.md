@@ -1,5 +1,8 @@
 #6.3 在幻灯片中添加对象
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=l0875vzx8s5" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一张幻灯片上可以插入多个对象，幻灯片就像一个舞台，而对象就像是演员，演示文稿支持的对象种类非常多，包括文字、图片、表格、音频、视频、超链接等。正是由于对象的种类丰富，才使得演示文稿生动活泼。
 
 ##6.3.1 添加图片

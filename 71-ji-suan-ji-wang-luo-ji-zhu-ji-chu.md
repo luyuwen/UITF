@@ -1,5 +1,8 @@
 #7.1 计算机网络技术基础
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=c08755mtch5" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如今在人类社会的各个领域，几乎都缺少不了计算机网络。计算机网络改变了人们的工作、学习和生活方式，为人们带来了极大的便利。
 
 ##7.1.1 计算机网络的概念与分类

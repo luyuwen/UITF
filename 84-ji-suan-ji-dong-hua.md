@@ -1,5 +1,8 @@
 #8.4 计算机动画
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=a0875etfj04" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;伴随着计算机技术的高速发展，动画制作也从原来的手工绘制过渡到了计算机绘制。目前，计算机动画被广泛应用于医学、教育、军事、娱乐等诸多领域。
 
 ##8.4.1动画基础知识

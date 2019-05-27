@@ -1,5 +1,8 @@
 #8.2 数字音频
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=u0875q9ac4g" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 ##8.2.1 数字音频基础知识
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;声音是由物体振动产生的，发生震动的物体称为声源，通过介质的传播可以被人耳所感知，但人耳只能识别20Hz~20kHz频率之间的声音。音调、响度和音色是声音的三个主要特征，音调是指声音的高低，由频率决定，频率越高音调就越高；响度是指声音的大小，也就是我们常说的音量，由振幅和人离声源的距离决定，振幅即物体震动时偏离原来位置的最大距离，振幅越大响度越大，人离声源越近响度也越大；音色又称为音品，与发声物体的材料、结构等有关，小提琴、吉他等乐器发出的声音，即使音调、响度都一样，但我们仍能分辨出来，这就是因为它们的音色不同。

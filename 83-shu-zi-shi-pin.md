@@ -1,5 +1,8 @@
 #8.3 数字视频
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=m0875caq7ya" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 ##8.3.1 数字视频的基础知识
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数字视频是指在视频信号的产生、存储、处理、重放、传送等过程中均采用数字信号。与它相对的是模拟视频，即在视频信号的产生、存储、处理、重放、传送等过程中均采用模拟信号。相比于模拟视频，数字视频的抗干扰性更好，更适合长时间存放，大量复制时不会产生图像失真、信号损失等问题。

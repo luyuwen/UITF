@@ -1,5 +1,8 @@
 #6.5 PowerPoint的高级功能
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=i0875dq5plm" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 ##6.5.1 Flash动画的控件插入法
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PowerPoint可以制作简单的动画，但若制作复杂的动画则有些困难，而Flash是一种集动画创作与应用程序开发于一身的创作软件，在动画制作方面十分优秀，必要时可以在PowerPoint中插入Flash动画。

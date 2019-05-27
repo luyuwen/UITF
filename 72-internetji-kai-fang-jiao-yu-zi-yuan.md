@@ -1,5 +1,8 @@
 #7.2 Internet及开放教育资源
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=s0875fi01ne" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;随着计算机网络的不断发展，Internet已经渗透到了各行各业，成为了人们生活、学习、工作中不可或缺的一部分。Internet的普及为教育注入了新的活力，使得学习者脱离了时间、空间的束缚，越来越多的学习者倾向于在线教育。学习者的需求推动了开放教育资源的发展，同时开放教育资源为所有学习者提供了公平的学习机会。
 
 ##7.2.1 Internet及其服务

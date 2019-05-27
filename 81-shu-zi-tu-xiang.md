@@ -1,5 +1,8 @@
 #8.1 数字图像
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=p0875fuemch" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数字图像又称数码图像，以数字的形式进行获取、处理、输出和保存，可以直观的表现信息，应用非常广泛。本节主要介绍数字图像的基础知识以及Photoshop的常用操作。
 
 ##8.1.1 数字图像的基础知识

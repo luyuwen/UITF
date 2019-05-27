@@ -1,5 +1,8 @@
 #6.2 幻灯片编辑
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=s0875pqm2vl" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 ##6.2.1 基本编辑
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制作演示文稿时，不免要对幻灯片进行一些操作，此处介绍一些编辑幻灯片的基本操作。
