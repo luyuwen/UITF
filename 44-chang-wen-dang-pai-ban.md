@@ -1,5 +1,8 @@
 #4.4 长文档排版
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=f0875a6vscd" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长文档通常由多部分内容组成，各部分内容的页面版式和字体段落格式通常不同。比如毕业论文的封面不加页眉，而它的正文部分不仅有页眉，而且页码是重新开始编号的。通常一篇正规的长文档是由封面、目录、正文、附录组成的。本节就重点介绍分页符和分节符、脚注和尾注、页眉和页脚、目录、批注等内容。
 
 ##4.4.1 分页符和分节符

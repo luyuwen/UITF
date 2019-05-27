@@ -1,5 +1,8 @@
 #5.1 电子表格基础知识
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=k087558nbd2" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 ##5.1.1 电子表格基本概念与操作
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft Excel是一款电子表格软件，可以在Windows和Apple Macintosh操作系统内运行，常用于数据统计与分析。

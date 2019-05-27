@@ -1,5 +1,8 @@
 #5.2 数据分析和处理
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=w0875jygxco" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本节以图5-28中的工作表为例，讲解Excel的排序、筛选、分类汇总、数据透视表等操作。
 
 <div align="center"><img src="/images/5-28.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图5-28 示例工作表</p></div> 

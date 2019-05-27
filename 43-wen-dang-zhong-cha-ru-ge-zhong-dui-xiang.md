@@ -1,5 +1,8 @@
 #4.3文档中插入各种对象
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=w0871f5j6k1" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在Word2016中可以插入图片、绘图、公式、SmartArt图形及图表等多种格式的对象。本节重点介绍图片、绘图、及公式等三种对象在Word 2016中的插入及设置。
 
 ##4.3.1插入图片

@@ -1,5 +1,8 @@
 #5.3 数据图表化
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=s0875a66156" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图表是数据的一种可视化表示形式，可以直观地看到使数据之间的比较或数据的变化趋势，例如柱形图可以显示数据的分布情况；折线图可以展示随时间变化的连续数据；饼图可以显示数据集中各子项占总体数据的百分比等。
 
 ##5.3.1 图表的创建

@@ -1,5 +1,8 @@
 #6.1 演示文稿基础知识
 
+<div align="center"><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/txp/iframe/player.html?vid=j0875tiw9pc" allowFullScreen="true"></iframe></div>
+<div align="center"><p style="font-size:20px; font-weight:bold">教学微视频</p></div>
+
 ##6.1.1 演示文稿窗口组成
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PowerPoint是我们常用的办公软件之一，此处以PowerPoint2016为例进行相关介绍。图6-1为PowerPoint2016窗口的组成，主要包括快速访问工具栏、标题栏、窗口操作按钮、选项卡、功能区、幻灯片浏览窗格、工作区、状态栏、备注与批注按钮、视图栏、显示比例按钮等。其中大部分功能与Word、Excel中的对应功能相似。
