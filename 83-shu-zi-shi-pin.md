@@ -142,4 +142,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;视频编辑好之后，选择【Share】→【Local File】，会出现如图8-37（a）所示的对话框，我们可以根据实际需求设置导出视频的参数。在这里，我们选择【Custom production settings】；点击下一步后出现如图8-37（b）所示的对话框，选择需要的视频格式；点击下一步后出现如图8-37（c）所示的对话框，我们可以对控制条、视频设置、音频设置进行相应的选择，当然设置的视音频品质越高，视频文件也越大；点击下一步后出现如图8-37（d）所示的对话框，这里我们一般不做更改，点击下一步出现如图8-37（e）所示的对话框，在这里我们对视频文件命名并选择保存路径即可完成视频的导出。
 
-<div align="center"><img src="/images/8-37(a).png"><img src="/images/8-37(b).png"><img src="/images/8-37(cd).png"><img src="/images/8-37(d).png"><img src="/images/8-37(e).png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-37视频导出向导</p></div>
+<div align="center"><img src="/images/8-37(a).png"><p style="text-align:center;">（a）</p><img src="/images/8-37(b).png"><p style="text-align:center;">（b）</p><img src="/images/8-37(c).png"><p style="text-align:center;">（c）</p><img src="/images/8-37(d).png"><p style="text-align:center;">（d）</p><img src="/images/8-37(e).png"><p style="text-align:center;">（e）</p><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图8-37视频导出向导</p></div>
