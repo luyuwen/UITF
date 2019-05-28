@@ -125,7 +125,7 @@
 
 <div align="center"><img src="/images/3-23.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-23 选择【属性】</p></div> 
 
-<div align="center"><img src="/images/3-24.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-24 清理磁盘</p></div>   
+<div align="center"><img src="/images/3-24-1.png"><img src="/images/3-24-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-24 清理磁盘</p></div>   
 
 ##3.3.5 查看任务管理器
 
