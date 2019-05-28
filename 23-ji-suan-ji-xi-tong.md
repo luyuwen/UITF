@@ -71,7 +71,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②鼠标是美国科学家道格拉斯·恩格尔巴特发明的，因形似老鼠而取名为鼠标，是一种比较常见的计算机输入设备，主要通过按键和滚轮装置对屏幕上的元素进行操作，如图2-10所示。鼠标的出现使得计算机的操作更加便捷，用户不用再输入繁琐的指令，而只需轻轻一点便可实现相关操作。
 
-<div align="center"><img src="/images/2-10.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-9 键盘</p></div>
+<div align="center"><img src="/images/2-10.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图2-10 键盘</p></div>
 
 ###5．总线
 

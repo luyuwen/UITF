@@ -27,7 +27,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以将上述内容归纳为表2-1，方便读者查阅，其中位权的表示方法仅适用于整数部分。
 
-<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">表2-1-1 键盘</p></div>
+<div align="center"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">表2-1 键盘</p></div>
 
 |进位制|运算规则|基数|基本符号|位权|
 | :------: | :------: | :------: |:------: | :------: |

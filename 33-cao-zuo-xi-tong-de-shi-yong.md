@@ -77,7 +77,7 @@
 
 ###6.搜索文件
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows的搜索功能可以帮助我们快速找到所需文件，如图3-17所示。在文件名类似、文件格式相同和根本不知道文件名等情况下，可以使用通配符进行搜索，即星号（*）与问号（？）。星号（*）可以代替零个或多个字符，问号（？）只能代替一个字符。以“*.docx”为例，可以搜索到指定位置的所有docx文件。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows的搜索功能可以帮助我们快速找到所需文件，如图3-17所示。在文件名类似、文件格式相同和根本不知道文件名等情况下，可以使用通配符进行搜索，即星号（`*`）与问号（？）。星号（`*`）可以代替零个或多个字符，问号（？）只能代替一个字符。以“*.docx”为例，可以搜索到指定位置的所有docx文件。
 
 <div align="center"><img src="/images/3-17.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图3-17 文件的搜索</p></div> 
 
