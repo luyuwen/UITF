@@ -26,7 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②调整颜色，选中图片，点击【格式】→【颜色】，从弹出的下拉列表中选择合适的颜色饱和度、色调，也可重新着色，如图6-20所示。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③添加艺术效果，选中图片，点击【格式】→【艺术效果】，弹出的下拉列表中有多种艺术效果，例如粉笔素描、铅笔灰度、虚化等，用户可根据需要选择合适的艺术效果，如图6-21所示。
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图6-19 调整图片亮度和对比度
+
+<div align="center"><img src="/images/6-19.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图6-19 调整图片亮度和对比度
 </p></div> 
 
 <div align="center"><img src="/images/6-20.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图6-20 调整图片颜色</p></div> 
