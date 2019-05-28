@@ -152,7 +152,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点击【现有文件或网页】，在对话框下方的【地址】处输入需要链接的网址即可，如图6-35所示。
 
-<div align="center"><img src="/images/6-35png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图6-35 链接到网页</p></div> 
+<div align="center"><img src="/images/6-35.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图6-35 链接到网页</p></div> 
 
 ###2.链接到本文档中的位置
 
