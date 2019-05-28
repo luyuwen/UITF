@@ -155,7 +155,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTTP的工作过程是：首先客户机与服务器建立连接；连接成功之后客户机向服务器发送请求，请求的参数中包含请求页面的URL地址；服务器接收到请求后进行相关的处理，并把处理结果返回到客户端，处理结果的相关信息通过浏览器呈现给用户；之后客户机与服务器之间的连接会断开，以保证其他客户机与服务器能够建立连接。如果上述过程中出现了错误，那么产生错误的信息会返回到客户端，整个过程中，用户只需点击鼠标，等待信息即可，具体工作会由HTTP完成。图7-15是HTTP请求响应的示意图。
 
-<div align="center"><img src="/images/7-15.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图7-15 HTTP工作原理示意图</p></div> 
+<div align="center"><img src="/images/7-15.jpg"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图7-15 HTTP工作原理示意图</p></div> 
 
 ###5.Web服务端技术与Web客户端技术
 
@@ -173,7 +173,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;edX是麻省理工和哈佛大学联手创建的大规模开放在线课程平台，主要目的是配合校内教学，提高教学质量、推广网络在线教育，为所有学习者提供免费开放的课程。edX实行董事会领导下的伙伴学校支委员会监管、会员学校领导委员会下属的委员会与团队分工负责制，以此保证平台的正常运行。目前edX汇集了100多名校课程，国内高校包括清华大学、北京大学、香港科技大学等。edX为非营利性的平台，但若想拿到签名认证的证书就需要缴纳一定的费用，图7-16为edX官网主页。
 
-<div align="center"><img src="/images/7-16.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图7-16 edX官网主页</p></div> 
+<div align="center"><img src="/images/7-16.jpg"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图7-16 edX官网主页</p></div> 
 
 ####（2）Coursera
 
