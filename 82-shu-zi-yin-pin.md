@@ -103,12 +103,12 @@
 
 |标志|工具名称|说明|
 |:------:|:------:|:------:|
-||Audition|Audition是一款专业的音频处理软件，具有录音、声音编辑、修复录制缺陷、声音混合等功能，并且支持WMA、MP3等多种主流音频格式。|
-||GoldWave|GoldWave是一个集声音编辑、播放、录制和转换功能于一体的音频编辑软件，支持MP3、WMA、WAC等多种音频格式。|
-||CakeWalk|CakeWalk是一款数字音乐制作软件，可以制作、编辑MIDI格式的音乐文件，同时还具有音频录制和常规的音频处理功能。|
-||WaveCN|WaveCN是一款录音编辑软件，具有方便、易用的中文操作界面，支持多种音频格式，同时具有常用的音频编辑功能。|
-||iFlyTech InterPhonic|iFlyTech InterPhonic是一款真人语音朗读软件，能够根据文本读出声音，导出声音文件，并且提供了不同风格的音色，如成年男声、成年女声以及童声等。|
-||语言合成工具|语言合成工具是一款在线语音转换软件，具有安装版本和绿色版本，均是免费提供给用户使用。|
+|<img src="/images/au.png">|Audition|Audition是一款专业的音频处理软件，具有录音、声音编辑、修复录制缺陷、声音混合等功能，并且支持WMA、MP3等多种主流音频格式。|
+|<img src="/images/gw.png">|GoldWave|GoldWave是一个集声音编辑、播放、录制和转换功能于一体的音频编辑软件，支持MP3、WMA、WAC等多种音频格式。|
+|<img src="/images/cw.png">|CakeWalk|CakeWalk是一款数字音乐制作软件，可以制作、编辑MIDI格式的音乐文件，同时还具有音频录制和常规的音频处理功能。|
+|<img src="/images/wc.png">|WaveCN|WaveCN是一款录音编辑软件，具有方便、易用的中文操作界面，支持多种音频格式，同时具有常用的音频编辑功能。|
+|<img src="/images/ii.png">|iFlyTech InterPhonic|iFlyTech InterPhonic是一款真人语音朗读软件，能够根据文本读出声音，导出声音文件，并且提供了不同风格的音色，如成年男声、成年女声以及童声等。|
+|<img src="/images/yyhcgj.png">|语言合成工具|语言合成工具是一款在线语音转换软件，具有安装版本和绿色版本，均是免费提供给用户使用。|
  
 ###2.Audition操作界面
 
