@@ -53,7 +53,7 @@
 
 ####（8）RMVB格式
 
-RMVB（RealMedia Variable Bitrate）是RealMedia格式的扩展版本，RMVB降低了静态画面下的比特率，拥有出色的画质和众多优秀软件的支持，例如Easy RealMedia Producer。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RMVB（RealMedia Variable Bitrate）是RealMedia格式的扩展版本，RMVB降低了静态画面下的比特率，拥有出色的画质和众多优秀软件的支持，例如Easy RealMedia Producer。
 
 ###3.数字视频的获取方式：
 
@@ -66,16 +66,21 @@ RMVB（RealMedia Variable Bitrate）是RealMedia格式的扩展版本，RMVB降�
 ####（2）通过制作软件获取
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前，制作动画的软件已非常繁多且发展成熟，例如Flash、3D Studio Max 等，利用这些软件，我们可以制作出数字视频素材。
+
 ####（3）通过互联网获取
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过互联网，我们不仅可以下载图片、音频，还可以下载视频，目前大多网站都提供了视频下载服务，这种途径也可以帮助我们获得数字视频，但部分视频需要付费后才可下载。
+
 ####（4）将模拟视频转为数字视频
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用视频采集卡我们可以将模拟视频转换成数字视频。视频采集卡对模拟信号进行处理后交由计算机记录编码，但这种方法会损失一定的信号。
+
 ####（5）利用抓取软件录制
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;利用视频抓取软件从播放器的视频中抓取需要的视频信息也可以得到数字视频，不过抓取的视频清晰度较原视频可能会比较低。
+
 ##8.3.2 使用CS录制微视频
+
 ###1.视频处理软件
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数字视频的处理主要有视频剪辑、配音、添加字幕、添加滤镜等。表8-4介绍了一些常用的视频处理软件，每种软件的功能侧重有所不同，用户可以根据自己的需要进行选择。
