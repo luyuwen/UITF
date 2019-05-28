@@ -131,7 +131,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;十六进制数   D		 A	.	  A
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结果为（11011010.101）<sub>2</sub>=（DA.A）<sub>16</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结果为（11011010.101）<sub style="font-size:10px">2</sub>=（DA.A）<sub style="font-size:10px">16</sub>
 
 ####（2）十六进制数转换为二进制数
 
@@ -143,7 +143,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二进制数	   1000    1101   .  1010     0011	
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结果为（8D.A3）<sub>16</sub>=10001101.10100011)<sub>2</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结果为（8D.A3）<sub style="font-size:10px">16</sub>=10001101.10100011)<sub style="font-size:10px">2</sub>
 
 ###4.十进制数与十六进制数的相互转换
 
