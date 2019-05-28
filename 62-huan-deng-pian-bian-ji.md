@@ -80,7 +80,8 @@
 ####（3）效果
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主题效果可以对插入图形的线条和填充效果进行更改，在【变体】的下拉列表中选择【效果】，从效果列表中选择需要的样式即可，如图6-12所示。
-<div align="center"><img src="/images/2-2.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图6-12 效果列表</p></div> 
+
+<div align="center"><img src="/images/6-12.png"><p style="text-align:center; font-size:10px; margin-top:2px; font-weight:bold">图6-12 效果列表</p></div> 
 
 ####（4）背景样式
 
