@@ -47,10 +47,10 @@
 
 |标志|工具名称|说明|
 | :------: | :------: | :------: |
-||CrazyTalk|CrazyTalk可以把多种格式的静态图片加上各种特效变成动态的图片，并且可以同步语言，效果逼真，在对口型方面可以做到完美衔接。|
-||Ulead GIF Animator|Ulead GIF Animator有许多现成的特效可以套用，并且可以将AVI文件转成GIF文件，还能将GIF图片最佳化。|
-||Flash|Flash功能非常强大，可以从外部导入声音、图像和视频等，利用ActionScript语言可以实现强大的动画效果和交互功能。|
-||3Ds MAX|3D Studio Max，常简称为3d Max或3ds MAX，主要应用于建筑、影视、游戏、动画等领域。|
+|<img src="/images/cz.png">|CrazyTalk|CrazyTalk可以把多种格式的静态图片加上各种特效变成动态的图片，并且可以同步语言，效果逼真，在对口型方面可以做到完美衔接。|
+|<img src="/images/uga.jpg">|Ulead GIF Animator|Ulead GIF Animator有许多现成的特效可以套用，并且可以将AVI文件转成GIF文件，还能将GIF图片最佳化。|
+|<img src="/images/flash.png">|Flash|Flash功能非常强大，可以从外部导入声音、图像和视频等，利用ActionScript语言可以实现强大的动画效果和交互功能。|
+|<img src="/images/3d.png">|3Ds MAX|3D Studio Max，常简称为3d Max或3ds MAX，主要应用于建筑、影视、游戏、动画等领域。|
 
 ###1.Crazy Talk的工作界面简介
 
