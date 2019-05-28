@@ -81,11 +81,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;例如将十进制数37转换为二进制数：
 
+<div align="center"><img src="/images/2-0-1.PNG"></div>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;得到的余数按逆序排列为100101，因此（37）<sub>10</sub>=（100101）<sub>2</sub>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②小数部分，小数部分可采用“乘2取整法”，基本思想是将小数部分乘以2，并取出所得乘积的整数部分，将剩余的小数部分再次乘以2，并取出整数部分，重复此步骤，直到小数部分为0或者达到要求的精确度为止，最后将所取整数按顺序排列就是该数小数部分的二进制形式。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;例如将十进制数19.75转换为二进制数：
+
+<div align="center"><img src="/images/2-0-2.PNG"></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结果为（19.75）<sub>10</sub>=（10011.11）<sub>2</sub>
 
