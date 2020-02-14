@@ -1,4 +1,4 @@
-<div align="center"><img src="/images/cover.jpg"></div>
+<div align="center"><img src="/images/cover2.jpg"></div>
 
 #前言
 
